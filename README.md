@@ -89,7 +89,11 @@ https://radar4chem.radar-service.eu/radar/en/dataset/OGoEQGlsZGElrgst
 ```
     python cv.py
 ```
-7. Trained models are saved under models folder with experiment names mentioned in config.json
+7. Alternative : train and test for 1 fold of the dataset
+```
+    python train_test.py --config config.json --results
+```
+8. Trained models are saved under models folder with experiment names mentioned in config.json
 
 ## Contributing
 
