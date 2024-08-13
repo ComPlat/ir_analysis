@@ -1,0 +1,13 @@
+{
+    "exp_name": "nist_1200",
+    "split_at": 1200,
+    "total_epochs": 50,
+    "lr": 0.01,
+    "gamma": 0.1,
+    "seed": 319,
+    "batch_size": 32,
+    "num_classes": 17,
+    "log_interval": 2,
+    "splits": 5
+  }
+  
