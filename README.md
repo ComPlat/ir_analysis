@@ -25,6 +25,7 @@ Our model can be extended to incorporate identification of other functional grou
     - nitro
 
 Our data pipeline processes Jcamp files and structures the data into dataframes.
+
 ![Alt text](./data_pipeline.png)
 
 Our published models were trained on NIST SRD 35 and Chemotion datasets.
