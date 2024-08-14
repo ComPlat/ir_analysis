@@ -2,6 +2,8 @@
 
 Publication link : 
 
+Code doi (Zenodo) : https://doi.org/10.5281/zenodo.13318653
+
 Automated Infrared spectrum analysis to identify 17 functional groups using deep learning. 
 At present our model can identify below mentioned groups. 
 Our model can be extended to incorporate identification of other functional groups as well.
