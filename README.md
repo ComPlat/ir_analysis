@@ -24,7 +24,10 @@ Our model can be extended to incorporate identification of other functional grou
     - amides
     - nitro
 
-Our model accepts jcamp file for molecules as input. Our models were trained on NIST SRD 35 and Chemotion datasets.
+Our data pipeline processes Jcamp files and structures the data into dataframes.
+![Alt text](./data_pipeline.png)
+
+Our published models were trained on NIST SRD 35 and Chemotion datasets.
 
 We cannot provide NIST SRD 35 dataset as it is a commericial dataset. 
 
